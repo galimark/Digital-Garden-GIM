@@ -1,0 +1,252 @@
+{
+  "vaultName": "AM_Digital_Garden",
+  "lastExport": 1741093334078,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Digitális eszközök a szebb holnapért/Mesterséges Üzleti Asszisztens.md",
+    "Digitális eszközök a szebb holnapért/ScoreCard.md",
+    "Digitális eszközök a szebb holnapért/Zapier.md",
+    "Könyvjegyzetek/BooK - ENTREPRENEUR REVOLUTION - Daniel Priestly.md",
+    "Könyvjegyzetek/BooK - The E-Myth - Michael E. Gerber.md",
+    "Könyvjegyzetek/BooK - The millionaire Fastlane - MJ DeMarco.md",
+    "Könyvjegyzetek/BooK -Scorecard Marketing - Daniel Priestly 1.md",
+    "Könyvjegyzetek/Könyvjegyzet sablon.md",
+    "Longevity/Egészséges bundás kenyér.md",
+    "Termelési folyamatok fejlesztése/Bottleneck Analízis – Szűk keresztmetszetek azonosítása és kezelése.md",
+    "Termelési folyamatok fejlesztése/LEAN.md",
+    "Termelési folyamatok fejlesztése/Six Sigma és Minőségmenedzsment.md",
+    "Termelési folyamatok fejlesztése/Value Stream Mapping (VSM) – Értékáram Térképezés.md",
+    "YouTube videótervek/Videó tervek sablon.md",
+    "YouTube videótervek/YT - ENTREPRENEUR REVOLUTION - Daniel Priestly.md",
+    "Digital Garden of productivity.md",
+    "image.jpg",
+    "image 1.jpg",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg"
+  ],
+  "fileInfo": {
+    "Digitális eszközök a szebb holnapért/Mesterséges Üzleti Asszisztens.md": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 8345,
+      "exportedPath": "Digitális eszközök a szebb holnapért/Mesterséges Üzleti Asszisztens.html",
+      "dependencies": []
+    },
+    "Digitális eszközök a szebb holnapért/ScoreCard.md": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 100,
+      "exportedPath": "Digitális eszközök a szebb holnapért/ScoreCard.html",
+      "dependencies": []
+    },
+    "Digitális eszközök a szebb holnapért/Zapier.md": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 25,
+      "exportedPath": "Digitális eszközök a szebb holnapért/Zapier.html",
+      "dependencies": []
+    },
+    "Könyvjegyzetek/BooK - ENTREPRENEUR REVOLUTION - Daniel Priestly.md": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 866,
+      "exportedPath": "Könyvjegyzetek/BooK - ENTREPRENEUR REVOLUTION - Daniel Priestly.html",
+      "dependencies": []
+    },
+    "Könyvjegyzetek/BooK - The E-Myth - Michael E. Gerber.md": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 2230,
+      "exportedPath": "Könyvjegyzetek/BooK - The E-Myth - Michael E. Gerber.html",
+      "dependencies": []
+    },
+    "Könyvjegyzetek/BooK - The millionaire Fastlane - MJ DeMarco.md": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 3014,
+      "exportedPath": "Könyvjegyzetek/BooK - The millionaire Fastlane - MJ DeMarco.html",
+      "dependencies": []
+    },
+    "Könyvjegyzetek/BooK -Scorecard Marketing - Daniel Priestly 1.md": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 866,
+      "exportedPath": "Könyvjegyzetek/BooK -Scorecard Marketing - Daniel Priestly 1.html",
+      "dependencies": []
+    },
+    "Könyvjegyzetek/Könyvjegyzet sablon.md": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 761,
+      "exportedPath": "Könyvjegyzetek/Könyvjegyzet sablon.html",
+      "dependencies": []
+    },
+    "Longevity/Egészséges bundás kenyér.md": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 61,
+      "exportedPath": "Longevity/Egészséges bundás kenyér.html",
+      "dependencies": []
+    },
+    "Termelési folyamatok fejlesztése/Bottleneck Analízis – Szűk keresztmetszetek azonosítása és kezelése.md": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 675,
+      "exportedPath": "Termelési folyamatok fejlesztése/Bottleneck Analízis – Szűk keresztmetszetek azonosítása és kezelése.html",
+      "dependencies": []
+    },
+    "Termelési folyamatok fejlesztése/LEAN.md": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 472,
+      "exportedPath": "Termelési folyamatok fejlesztése/LEAN.html",
+      "dependencies": []
+    },
+    "Termelési folyamatok fejlesztése/Six Sigma és Minőségmenedzsment.md": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 412,
+      "exportedPath": "Termelési folyamatok fejlesztése/Six Sigma és Minőségmenedzsment.html",
+      "dependencies": []
+    },
+    "Termelési folyamatok fejlesztése/Value Stream Mapping (VSM) – Értékáram Térképezés.md": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 438,
+      "exportedPath": "Termelési folyamatok fejlesztése/Value Stream Mapping (VSM) – Értékáram Térképezés.html",
+      "dependencies": []
+    },
+    "YouTube videótervek/Videó tervek sablon.md": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 252,
+      "exportedPath": "YouTube videótervek/Videó tervek sablon.html",
+      "dependencies": []
+    },
+    "YouTube videótervek/YT - ENTREPRENEUR REVOLUTION - Daniel Priestly.md": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 41,
+      "exportedPath": "YouTube videótervek/YT - ENTREPRENEUR REVOLUTION - Daniel Priestly.html",
+      "dependencies": []
+    },
+    "Digital Garden of productivity.md": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 897,
+      "exportedPath": "Digital Garden of productivity.html",
+      "dependencies": []
+    },
+    "image.jpg": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 2607683,
+      "exportedPath": "image.jpg",
+      "dependencies": []
+    },
+    "image 1.jpg": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 3117632,
+      "exportedPath": "image 1.jpg",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1741093334078,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    }
+  }
+}
